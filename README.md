@@ -1,3 +1,2 @@
 # example
- Testing Folder
-Tuscany's edit
+ Testing Folder Tuscany's edit
